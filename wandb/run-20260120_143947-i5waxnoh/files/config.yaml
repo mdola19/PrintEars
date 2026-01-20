@@ -1,0 +1,53 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        code_path: code/train.py
+        e:
+            qcwxjkavuhjvkaj3guv4t5dmrus1825y:
+                codePath: train.py
+                codePathLocal: train.py
+                email: manjotdola2006@gmail.com
+                executable: /opt/anaconda3/envs/printEar/bin/python
+                host: Manjots-MacBook-Pro.local
+                os: macOS-26.2-arm64-arm-64bit
+                program: /Users/manjotdola/Downloads/Projects/PrintEar/train.py
+                python: CPython 3.12.12
+                root: /Users/manjotdola/Downloads/Projects/PrintEar
+                startedAt: "2026-01-20T19:39:47.062912Z"
+                writerId: qcwxjkavuhjvkaj3guv4t5dmrus1825y
+        m: []
+        python_version: 3.12.12
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 3
+                - 8
+                - 16
+            "4": 3.12.12
+            "5": 0.24.0
+            "10":
+                - 9
+                - 17
+            "12": 0.24.0
+            "13": darwin-arm64
+architecture:
+    value: CNN
+batch_size:
+    value: 16
+dataset:
+    value: MFCC Features
+epochs:
+    value: 50
+learning_rate:
+    value: 0.001
+n_mfcc:
+    value: 13

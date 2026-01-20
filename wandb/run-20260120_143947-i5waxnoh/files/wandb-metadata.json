@@ -1,0 +1,13 @@
+{
+  "os": "macOS-26.2-arm64-arm-64bit",
+  "python": "CPython 3.12.12",
+  "startedAt": "2026-01-20T19:39:47.062912Z",
+  "program": "/Users/manjotdola/Downloads/Projects/PrintEar/train.py",
+  "codePath": "train.py",
+  "codePathLocal": "train.py",
+  "email": "manjotdola2006@gmail.com",
+  "root": "/Users/manjotdola/Downloads/Projects/PrintEar",
+  "host": "Manjots-MacBook-Pro.local",
+  "executable": "/opt/anaconda3/envs/printEar/bin/python",
+  "writerId": "qcwxjkavuhjvkaj3guv4t5dmrus1825y"
+}

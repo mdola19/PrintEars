@@ -1,0 +1,74 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        code_path: code/train.py
+        e:
+            togmp45jz4nc8tzbg419tjlfndd6b66w:
+                apple:
+                    ecpuCores: 6
+                    gpuCores: 14
+                    memoryGb: 36
+                    name: Apple M3 Pro
+                    pcpuCores: 5
+                    ramTotalBytes: "38654705664"
+                codePath: train.py
+                codePathLocal: train.py
+                cpu_count: 11
+                cpu_count_logical: 11
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "371172921344"
+                email: manjotdola2006@gmail.com
+                executable: /opt/anaconda3/envs/printEar/bin/python
+                host: Manjots-MacBook-Pro.local
+                memory:
+                    total: "38654705664"
+                os: macOS-26.2-arm64-arm-64bit
+                program: /Users/manjotdola/Downloads/Projects/PrintEar/train.py
+                python: CPython 3.12.12
+                root: /Users/manjotdola/Downloads/Projects/PrintEar
+                startedAt: "2026-01-20T19:57:46.901783Z"
+                writerId: togmp45jz4nc8tzbg419tjlfndd6b66w
+        m:
+            - "1": epoch/epoch
+              "6":
+                - 3
+              "7": []
+            - "2": epoch/*
+              "5": 1
+              "6":
+                - 1
+              "7": []
+        python_version: 3.12.12
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 53
+            "3":
+                - 7
+                - 16
+                - 38
+            "4": 3.12.12
+            "5": 0.24.0
+            "12": 0.24.0
+            "13": darwin-arm64
+architecture:
+    value: CNN
+batch_size:
+    value: 16
+dataset:
+    value: MFCC Features
+epochs:
+    value: 50
+learning_rate:
+    value: 0.001
+n_mfcc:
+    value: 13

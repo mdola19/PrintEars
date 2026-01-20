@@ -1,0 +1,32 @@
+{
+  "os": "macOS-26.2-arm64-arm-64bit",
+  "python": "CPython 3.12.12",
+  "startedAt": "2026-01-20T20:20:12.894693Z",
+  "program": "/Users/manjotdola/Downloads/Projects/PrintEar/train.py",
+  "codePath": "train.py",
+  "codePathLocal": "train.py",
+  "email": "manjotdola2006@gmail.com",
+  "root": "/Users/manjotdola/Downloads/Projects/PrintEar",
+  "host": "Manjots-MacBook-Pro.local",
+  "executable": "/opt/anaconda3/envs/printEar/bin/python",
+  "cpu_count": 11,
+  "cpu_count_logical": 11,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "371168927744"
+    }
+  },
+  "memory": {
+    "total": "38654705664"
+  },
+  "apple": {
+    "name": "Apple M3 Pro",
+    "ecpuCores": 6,
+    "pcpuCores": 5,
+    "gpuCores": 14,
+    "memoryGb": 36,
+    "ramTotalBytes": "38654705664"
+  },
+  "writerId": "bwpj3m91j8rz6116guf8ezrvqmsfle5w"
+}
